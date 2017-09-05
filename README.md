@@ -1,3 +1,6 @@
+# DEPRECATED - Please see [elm-slate/db-utils](https://github.com/elm-slate/db-utils)
+
+
 # slate-db-utils
 Postgresql database utilities for Slate
 
